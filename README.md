@@ -77,7 +77,7 @@ Whether you need a full-stack application built from scratch, a UI/UX overhaul, 
 
 <div align="left">
 
-* 📞 **Phone / WhatsApp:** [+91 9476477956] *(Replace with your actual number)*
+* 📞 **Phone / WhatsApp:** +91 9476477956
 * 📧 **Email:** [bhakataditya0@gmail.com](mailto:bhakataditya0@gmail.com)
 * 🌐 **Portfolio:** [adityabhakat.vercel.app](https://adityabhakat.vercel.app/)
 * 📍 **Location:** Midnapore, West Bengal
