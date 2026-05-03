@@ -27,10 +27,11 @@ I bridge the gap between technical execution and business strategy, ensuring the
 
 - 🌍 **Location:** Midnapore, West Bengal, India
 - 💼 **Availability:** **Open for Freelance Work & Collaborations**
+- 🚀 **Agency:** Founder at [Aditya Web Agency](https://aditya-web-agency.online/) — *Custom Web Solutions & Digital Branding*
 - 🔭 **Currently working on:** An advanced, highly scalable [E-Commerce Store](https://shopkart-aditya.vercel.app/)
-- 🌱 **Currently learning:** Mastering **Next.js** for SSR and advancing my skills through an intensive Full-Stack Development program at Intellipaat.
-- 👨‍💻 **Portfolio:** View my featured client-ready projects at [adityabhakat.vercel.app](https://adityabhakat.vercel.app/)
-- 💬 **Ask me about:** React, Node.js, Express, MongoDB, GSAP, and integrating marketing strategies with tech.
+- 🌱 **Currently learning:** Deep diving into **Pure Backend Architecture** and the **MERN Stack** via Intellipaat.
+- 👨‍💻 **Portfolio:** [adityabhakat.vercel.app](https://adityabhakat.vercel.app/)
+- 💬 **Ask me about:** React, Node.js, Express, MongoDB, GSAP, and Web Animations.
 - 📄 **Resume:** [View my experience here](https://drive.google.com/file/d/1PWto9Tt7iCWLheadVDxJ4e7OoEQppfSg/view?usp=sharing)
 - ⚡ **Fun fact:** I *always* deliver before the deadline 😂
 
